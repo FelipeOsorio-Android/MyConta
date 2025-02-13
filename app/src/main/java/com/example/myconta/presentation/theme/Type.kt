@@ -1,4 +1,4 @@
-package com.example.myconta.ui.theme
+package com.example.myconta.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
